@@ -26,5 +26,9 @@
 <h2>method PUT
 <br><br>
 
+
+![put](https://user-images.githubusercontent.com/122386488/234473544-fb672666-4762-40c1-9088-457d6f652c7b.png)
+
+
 <h2>method DELETE
 <br><br>
