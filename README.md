@@ -19,6 +19,10 @@
 <h2>method POST
 <br><br>
 
+
+![post](https://user-images.githubusercontent.com/122386488/234473401-915db5a6-6972-4c1c-a575-72231781931a.png)
+
+
 <h2>method PUT
 <br><br>
 
