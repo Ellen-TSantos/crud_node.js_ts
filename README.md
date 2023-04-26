@@ -12,6 +12,10 @@
 <h2>method GET
 <br><br>
 
+
+![get (2)](https://user-images.githubusercontent.com/122386488/234473145-97f8c3d0-b686-4b05-a563-cf9dd9b05027.png)
+
+
 <h2>method POST
 <br><br>
 
