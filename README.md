@@ -32,3 +32,9 @@
 
 <h2>method DELETE
 <br><br>
+
+
+![delete](https://user-images.githubusercontent.com/122386488/234473681-6c067ca9-ba40-4866-938f-0a3d8c022ff1.png)
+
+
+
